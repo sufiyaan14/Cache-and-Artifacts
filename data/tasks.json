@@ -1,0 +1,15 @@
+{
+  "lastId": 2,
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn Next.js",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "Build my first app",
+      "done": true
+    }
+  ]
+}
